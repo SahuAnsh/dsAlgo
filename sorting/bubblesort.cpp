@@ -35,4 +35,4 @@ int main()
 	printArray(arr, N);
 	return 0;
 }
-// This code is contributed by rathbhupendra
+ 
